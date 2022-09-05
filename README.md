@@ -20,16 +20,20 @@ Hello There, It is a simple employee management system. I have made a simple UI 
 * My SQL
 
 
-## Login Info:
+############################# Login Info ##############################################
 ### Admin Panel:
+
 ID: admin
 
 Pass: admin
+####################################################################################
 
 ### User Panel:
+
 ID: User's Email Address
 
 Pass: 1234 (By Default, User can change if they wish)
 
+######################################################################################
 
 
